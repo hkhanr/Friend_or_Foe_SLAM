@@ -20,7 +20,7 @@ In order to run Friend-or-Foe SLAM, you will have to successfully install and ru
 3. Navigate to Friend_or_Foe_SLAM directory and do the following:
 
 Copy the "Adv_database" and "Deciever_code" folders and paste them in ORB_SLAM folder.
-Also replace the files in "include" directory of ORB-SLAM and with that of Friend_or_Foe_SLAM directory.
+Also replace the files in "include" directory of ORB-SLAM with that of Friend_or_Foe_SLAM directory.
 
 All the necessary modification are done. Now we need to build the ORB-SLAM again.
 
