@@ -33,6 +33,8 @@ All the necessary modification are done. Now we need to build the ORB-SLAM again
 		make
 
 #4. Run SLAM
+
 Launch the SLAM using following command:
+
 		roslaunch ExampleGroovyOrNewer.launch
 		
