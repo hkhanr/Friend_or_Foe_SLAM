@@ -26,6 +26,7 @@ All the necessary modification are done. Now we need to build the ORB-SLAM again
 
 #3. Installation
 1. Build ORB_SLAM. Go into the ORB_SLAM root and execute the following:
+
 		cd build
 		cmake ..
 		make
