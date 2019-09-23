@@ -6,6 +6,7 @@ Friend_or_Foe SLAM is modified version of ORB-SLAM with inclusion of adversarial
 
 
 #1. Prerequisites (ORB-SLAM Installation)
+
 In order to run Friend-or-Foe SLAM, you will have to successfully install and run the ORB-SLAM. The github link for installation and running ORB-SLAM is given below:
 
 		https://github.com/raulmur/ORB_SLAM
