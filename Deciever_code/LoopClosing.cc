@@ -60,10 +60,10 @@ void LoopClosing::Run()
  //Load Decieve Image 
  cout<<" Loading Decieved Images and Calculating BoW for each image...!  "<<endl;
 
-for(int i = 0; i < 121; i++)
+for(int i = 0; i < 88; i++)    // i is the number of images in database
 {
 stringstream ss;
-ss << "/home/aquarius/ORB_SLAM/Adv_database/" << i << ".jpg";
+ss << "../Adv_database/" << i << ".jpg";
 
 cout<<"image "<<i<<".jpg"<<endl;
 image = cv::imread(ss.str(), 0);
