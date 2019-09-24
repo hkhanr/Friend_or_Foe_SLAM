@@ -22,6 +22,14 @@ In order to run Friend-or-Foe SLAM, you will have to successfully install and ru
 
 Copy the "Adv_database" and "Deciever_code" folders and paste them in ORB_SLAM folder.
 Also replace the files in "include" directory of ORB-SLAM with that of Friend_or_Foe_SLAM directory.
+In ORB_SLAM  root directory, open "CMakeLists.txt" and do the following:
+	comment the line
+	
+		"src/LoopClosing.cc"
+		
+Paste the following line just below it
+	
+		Deciever_code/LoopClosing.cc
 
 All the necessary modification are done. Now we need to build the ORB-SLAM again.
 
