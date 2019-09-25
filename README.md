@@ -24,9 +24,13 @@ Copy the "Adv_database" and "Deciever_code" folders and paste them in ORB_SLAM f
 Also replace the files in "include" directory of ORB-SLAM with that of Friend_or_Foe_SLAM directory.
 In ORB_SLAM  root directory, open "CMakeLists.txt" and do the following:
 	
-Comment the line
+Replace the line
 	
-		"src/LoopClosing.cc"
+		src/LoopClosing.cc
+		
+by following line
+
+		#src/LoopClosing.cc
 		
 Paste the following line just below it
 	
