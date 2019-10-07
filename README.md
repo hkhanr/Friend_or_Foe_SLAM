@@ -50,4 +50,15 @@ All the necessary modification are done. Now we need to build the ORB-SLAM again
 Launch the SLAM using following command:
 
 		roslaunch ExampleGroovyOrNewer.launch
+
+#5. Example Bag Files
 		
+Instrucions for running an example bag file on SLAM are given in the following link
+		
+		https://github.com/raulmur/ORB_SLAM
+		
+Our example bag files can be download from the following link
+
+		https://drive.google.com/open?id=1ayjDK8dvRNAudyS_EFmRmyeNoY1lU7kf
+		
+Also the camera setting file for our example bag can be downloaded from above link and the default setting file should be replaced by it.
