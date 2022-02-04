@@ -59,6 +59,6 @@ Instrucions for running an example bag file on SLAM are given in the following l
 		
 Our example bag files can be download from the following link
 
-		https://drive.google.com/open?id=1ayjDK8dvRNAudyS_EFmRmyeNoY1lU7kf
+		https://drive.google.com/drive/folders/17o6nZJU3RpP6oHx6aoihJ07kfceP3NGU?usp=sharing
 		
 Also the camera setting file for our example bag can be downloaded from above link and the default setting file should be replaced by it.
