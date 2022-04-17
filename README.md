@@ -64,7 +64,7 @@ Our example bag files can be download from the following link
 Also the camera setting file for our example bag can be downloaded from above link and the default setting file should be replaced by it.
 
 
-If you this repo, kindly cite the following paper
+If you use this repo, consider citing the corresponding paper:
 
 @article{ikram2022perceptual,
 
