@@ -1,12 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-@article{ikram2022perceptual,
-  title={Perceptual Aliasing++: Adversarial Attack for Visual SLAM Front-End and Back-End},
-  author={Ikram, Muhammad Haris and Khaliq, Saran and Anjum, Muhammad Latif and Hussain, Wajahat},
-  journal={IEEE Robotics and Automation Letters},
-  volume={7},
-  number={2},
-  pages={4670--4677},
-  year={2022},
-  publisher={IEEE}
-}
+authors:
+- family-names: "Ikram"
+  given-names: "Muhammad Haris Ikram"
+- family-names: "Khaliq"
+  given-names: "Saran"
+  - family-names: "Anjum"
+  given-names: "Muhammad Latif"
+  - family-names: "Hussain"
+  given-names: "Wajahat"
+title: "Perceptual Aliasing++: Adversarial Attack for Visual SLAM Front-End and Back-End"
+doi: 10.1109/LRA.2022.3150031
+date-released: 201-10-02
+url: "https://github.com/hkhanr/Friend_or_Foe_SLAM"
