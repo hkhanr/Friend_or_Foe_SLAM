@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+@article{ikram2022perceptual,
+  title={Perceptual Aliasing++: Adversarial Attack for Visual SLAM Front-End and Back-End},
+  author={Ikram, Muhammad Haris and Khaliq, Saran and Anjum, Muhammad Latif and Hussain, Wajahat},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={4670--4677},
+  year={2022},
+  publisher={IEEE}
+}
