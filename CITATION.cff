@@ -1,14 +1,22 @@
 cff-version: 1.2.0
-authors:
-- family-names: "Ikram"
-  given-names: "Muhammad Haris Ikram"
-- family-names: "Khaliq"
-  given-names: "Saran"
-  - family-names: "Anjum"
-  given-names: "Muhammad Latif"
-  - family-names: "Hussain"
-  given-names: "Wajahat"
-title: "Perceptual Aliasing++: Adversarial Attack for Visual SLAM Front-End and Back-End"
-doi: 10.1109/LRA.2022.3150031
-date-released: 201-10-02
-url: "https://github.com/hkhanr/Friend_or_Foe_SLAM"
+message: >-
+  If you use this work, please cite our corresponding
+  paper
+authors: >-
+- family-names: Ikram
+  given-names: Muhammad Haris Ikram
+- family-names: Khaliq
+  given-names: Saran
+  - family-names: Anjum
+  given-names: Muhammad Latif
+  - family-names: Hussain
+  given-names: Wajahat
+title: >-
+  Perceptual Aliasing++: Adversarial Attack for
+  Visual SLAM Front-End and Back-End
+doi: >- 
+  10.1109/LRA.2022.3150031
+date-released: >-
+  201-10-02
+url: >-
+  "https://github.com/hkhanr/Friend_or_Foe_SLAM"
