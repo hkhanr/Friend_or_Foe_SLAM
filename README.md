@@ -62,3 +62,16 @@ Our example bag files can be download from the following link
 		https://drive.google.com/drive/folders/17o6nZJU3RpP6oHx6aoihJ07kfceP3NGU?usp=sharing
 		
 Also the camera setting file for our example bag can be downloaded from above link and the default setting file should be replaced by it.
+
+
+If you this repo, kindly cite the following paper
+@article{ikram2022perceptual,
+  title={Perceptual Aliasing++: Adversarial Attack for Visual SLAM Front-End and Back-End},
+  author={Ikram, Muhammad Haris and Khaliq, Saran and Anjum, Muhammad Latif and Hussain, Wajahat},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={4670--4677},
+  year={2022},
+  publisher={IEEE}
+}
